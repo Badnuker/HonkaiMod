@@ -1,6 +1,12 @@
 {
   "itemgroup.honkai-impact-3": "崩坏3",
   "item.honkai-impact-3.crystal": "水晶",
+  "item.honkai-impact-3.crystal5": "5水晶",
+  "item.honkai-impact-3.crystal25": "25水晶",
+  "item.honkai-impact-3.crystal50": "50水晶",
+  "item.honkai-impact-3.crystal100": "100水晶",
+  "item.honkai-impact-3.crystal300": "300水晶",
+  "item.honkai-impact-3.crystal500": "500水晶",
   "item.honkai-impact-3.coin": "金币",
   "item.honkai-impact-3.starstone": "星石"
 }

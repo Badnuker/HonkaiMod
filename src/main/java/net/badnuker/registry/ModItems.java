@@ -15,9 +15,16 @@ public class ModItems {
         HonkaiMod.LOGGER.debug("Registering items");
     }
 
-    public static final Item CRYSTAL = registerItem("crystal", new Item(new FabricItemSettings()), ModItemGroup.ITEM_GROUP);
-    public static final Item COIN = registerItem("coin", new Item(new FabricItemSettings()), ModItemGroup.ITEM_GROUP);
-    public static final Item STARSTONE = registerItem("starstone", new Item(new FabricItemSettings()), ModItemGroup.ITEM_GROUP);
+    public static final Item CRYSTAL = registerItem("crystal", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item CRYSTAL5 = registerItem("crystal5", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item CRYSTAL25 = registerItem("crystal25", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item CRYSTAL50 = registerItem("crystal50", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item CRYSTAL100 = registerItem("crystal100", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item CRYSTAL300 = registerItem("crystal300", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item CRYSTAL500 = registerItem("crystal500", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item COIN = registerItem("coin", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    public static final Item STARSTONE = registerItem("starstone", new Item(new FabricItemSettings()), ModItemGroup.HonkaiItemGroup);
+    @SafeVarargs
     public static Item registerItem(String name, Item item, RegistryKey<ItemGroup>... itemGroups) {
         Item registeredItem = Registry.register(Registries.ITEM, new Identifier(HonkaiMod.MOD_ID, name), item);
         for (RegistryKey<ItemGroup> itemGroup : itemGroups) {

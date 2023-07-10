@@ -12,11 +12,11 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
-    public static final RegistryKey<ItemGroup> ITEM_GROUP = RegistryKey.of(RegistryKeys.ITEM_GROUP, new Identifier(HonkaiMod.MOD_ID, "honkai-impact-3"));
+    public static final RegistryKey<ItemGroup> HonkaiItemGroup = RegistryKey.of(RegistryKeys.ITEM_GROUP, new Identifier(HonkaiMod.MOD_ID, "honkai-impact-3"));
 
     public static void registerModGroup() {
         HonkaiMod.LOGGER.info("Registering item group");
-        Registry.register(Registries.ITEM_GROUP, ITEM_GROUP, FabricItemGroup.builder()
+        Registry.register(Registries.ITEM_GROUP, HonkaiItemGroup, FabricItemGroup.builder()
                 .displayName(Text.translatable("itemgroup.honkai-impact-3"))
                 .icon(() -> new ItemStack(ModItems.CRYSTAL))
                 .build());

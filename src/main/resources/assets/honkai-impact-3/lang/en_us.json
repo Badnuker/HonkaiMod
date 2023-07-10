@@ -1,6 +1,12 @@
 {
   "itemgroup.honkai-impact-3": "Honkai Impact 3",
   "item.honkai-impact-3.crystal": "Crystal",
+  "item.honkai-impact-3.crystal5": "Crystal * 5",
+  "item.honkai-impact-3.crystal25": "Crystal * 25",
+  "item.honkai-impact-3.crystal50": "Crystal * 50",
+  "item.honkai-impact-3.crystal100": "Crystal * 100",
+  "item.honkai-impact-3.crystal300": "Crystal * 300",
+  "item.honkai-impact-3.crystal500": "Crystal * 500",
   "item.honkai-impact-3.coin": "Gold Coin",
   "item.honkai-impact-3.starstone": "Starstone"
 }
