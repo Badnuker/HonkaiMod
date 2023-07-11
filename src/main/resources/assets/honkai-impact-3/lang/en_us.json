@@ -16,5 +16,10 @@
   "item.honkai-impact-3.coin50000": "HOMI Chest",
   "item.honkai-impact-3.coin1000000": "Ai-Chest",
   "item.honkai-impact-3.starstone": "Starstone",
-  "tooltip.honkai-impact-3.crystal5": "Gives 5 Crystals."
+  "tooltip.honkai-impact-3.crystal5": "Use to receive 5 Crystals.",
+  "tooltip.honkai-impact-3.crystal25": "Use to receive 25 Crystals.",
+  "tooltip.honkai-impact-3.crystal50": "Use to receive 50 Crystals.",
+  "tooltip.honkai-impact-3.crystal100": "Use to receive 100 Crystals.",
+  "tooltip.honkai-impact-3.crystal300": "Use to receive 300 Crystals.",
+  "tooltip.honkai-impact-3.crystal500": "Use to receive 500 Crystals."
 }

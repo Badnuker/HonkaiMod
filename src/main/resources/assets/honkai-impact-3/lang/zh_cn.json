@@ -16,5 +16,10 @@
   "item.honkai-impact-3.coin50000": "吼咪宝藏",
   "item.honkai-impact-3.coin1000000": "爱酱宝藏",
   "item.honkai-impact-3.starstone": "星石",
-  "tooltip.honkai-impact-3.crystal5": "使用后获得5水晶"
+  "tooltip.honkai-impact-3.crystal5": "使用后获得5水晶",
+  "tooltip.honkai-impact-3.crystal25": "使用后获得25水晶",
+  "tooltip.honkai-impact-3.crystal50": "使用后获得50水晶",
+  "tooltip.honkai-impact-3.crystal100": "使用后获得100水晶",
+  "tooltip.honkai-impact-3.crystal300": "使用后获得300水晶",
+  "tooltip.honkai-impact-3.crystal500": "使用后获得500水晶"
 }
