@@ -18,7 +18,7 @@ public class ModItemGroup {
         HonkaiMod.LOGGER.info("Registering item group");
         Registry.register(Registries.ITEM_GROUP, HonkaiItemGroup, FabricItemGroup.builder()
                 .displayName(Text.translatable("itemgroup.honkai-impact-3"))
-                .icon(() -> new ItemStack(ModItems.CRYSTAL))
+                .icon(() -> new ItemStack(ModItems.Crystal))
                 .build());
     }
 }

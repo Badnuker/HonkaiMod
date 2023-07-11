@@ -1,12 +1,20 @@
 {
   "itemgroup.honkai-impact-3": "Honkai Impact 3",
   "item.honkai-impact-3.crystal": "Crystal",
-  "item.honkai-impact-3.crystal5": "Crystal * 5",
-  "item.honkai-impact-3.crystal25": "Crystal * 25",
-  "item.honkai-impact-3.crystal50": "Crystal * 50",
-  "item.honkai-impact-3.crystal100": "Crystal * 100",
-  "item.honkai-impact-3.crystal300": "Crystal * 300",
-  "item.honkai-impact-3.crystal500": "Crystal * 500",
-  "item.honkai-impact-3.coin": "Gold Coin",
-  "item.honkai-impact-3.starstone": "Starstone"
+  "item.honkai-impact-3.crystal5": "5 Crystals",
+  "item.honkai-impact-3.crystal25": "25 Crystals",
+  "item.honkai-impact-3.crystal50": "50 Crystals",
+  "item.honkai-impact-3.crystal100": "100 Crystals",
+  "item.honkai-impact-3.crystal300": "300 Crystals",
+  "item.honkai-impact-3.crystal500": "500 Crystals",
+  "item.honkai-impact-3.coin": "Coin",
+  "item.honkai-impact-3.coin1000": "HOWO Chest",
+  "item.honkai-impact-3.coin2000": "HOLA Chest",
+  "item.honkai-impact-3.coin5000": "HOMU Chest",
+  "item.honkai-impact-3.coin10000": "HOLI Chest",
+  "item.honkai-impact-3.coin20000": "HOMEI Chest",
+  "item.honkai-impact-3.coin50000": "HOMI Chest",
+  "item.honkai-impact-3.coin1000000": "Ai-Chest",
+  "item.honkai-impact-3.starstone": "Starstone",
+  "tooltip.honkai-impact-3.crystal5": "Gives 5 Crystals."
 }

@@ -8,5 +8,13 @@
   "item.honkai-impact-3.crystal300": "300水晶",
   "item.honkai-impact-3.crystal500": "500水晶",
   "item.honkai-impact-3.coin": "金币",
-  "item.honkai-impact-3.starstone": "星石"
+  "item.honkai-impact-3.coin1000": "吼喔宝藏",
+  "item.honkai-impact-3.coin2000": "吼辣宝藏",
+  "item.honkai-impact-3.coin5000": "吼姆宝藏",
+  "item.honkai-impact-3.coin10000": "吼里宝藏",
+  "item.honkai-impact-3.coin20000": "吼美宝藏",
+  "item.honkai-impact-3.coin50000": "吼咪宝藏",
+  "item.honkai-impact-3.coin1000000": "爱酱宝藏",
+  "item.honkai-impact-3.starstone": "星石",
+  "tooltip.honkai-impact-3.crystal5": "使用后获得5水晶"
 }
